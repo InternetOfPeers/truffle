@@ -5666,6 +5666,14 @@
     websocket "^1.0.31"
     ws "^7.3.1"
 
+"@trufflesuite/spinnies@trufflesuite/spinnies#85f81a1":
+  version "0.1.0-0"
+  resolved "https://codeload.github.com/trufflesuite/spinnies/tar.gz/85f81a1d291e89a379faef52d996c8f4675705a7"
+  dependencies:
+    chalk "^4.1.2"
+    cli-cursor "^3.1.0"
+    strip-ansi "^6.0.0"
+
 "@trufflesuite/typedoc-default-themes@^0.6.1":
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/@trufflesuite/typedoc-default-themes/-/typedoc-default-themes-0.6.1.tgz#6b733ee896519476f6721d0db3effa2ca3bff7ce"
